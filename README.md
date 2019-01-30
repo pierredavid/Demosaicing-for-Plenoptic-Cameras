@@ -27,7 +27,7 @@ Thanks to Donald Dansereau for writing the Light Field Toolbox code
 Pierre David, Mikaël Le Pendu and Christine Guillemot. "White lenslet image guided demosaicing for plenoptic cameras". MMSP 2017 Best Paper Award. Project webpage: http://clim.inria.fr/research/Demosaicing/LensletDemosaicing.html
 
 If you use our method, please cite the following paper:
-
+```
 @inproceedings{david2017white,
   title={White lenslet image guided demosaicing for plenoptic cameras},
   author={David, Pierre and Le Pendu, Mika{\"e}l and Guillemot, Christine},
@@ -36,3 +36,4 @@ If you use our method, please cite the following paper:
   year={2017},
   organization={IEEE}
 }
+```
